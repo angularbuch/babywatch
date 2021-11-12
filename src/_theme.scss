@@ -1,7 +1,7 @@
 // Plus imports for other components in your app.
-@use '~@angular/material' as mat;
+@use '@angular/material' as mat;
 // Import der Theming Funktionen
-@import "~@angular/material/theming";
+@import "@angular/material/theming";
 
 // Definition der Farbpaletten
 $primary-palette: mat.define-palette(mat.$deep-orange-palette);
